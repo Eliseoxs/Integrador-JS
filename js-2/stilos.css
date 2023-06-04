@@ -1,0 +1,86 @@
+#navbarNav{
+    display: flex;
+    justify-content: end;
+}
+
+
+.box-cuadros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    text-align: center;
+}
+.box-cuestonario{
+    
+    width: 500px;
+    text-align: center;
+    margin: 40px;
+    margin-left: 420px;
+
+}
+.card-body{
+    width: 200px;
+    height: 200px;
+}
+#green{
+    border: green solid 1px;
+
+}
+#hola{
+    border: yellow solid 1px;
+}
+.box-buttom{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+#blue{
+    border: blue solid 1px;
+}
+#lis{
+    margin-left: 10%;
+}
+#Borrar{
+    width: 200px;
+}
+#Resumen{
+    width: 200px;
+}
+.box-dinero{
+    text-align: center;
+
+}
+.box-respuesta{
+    margin-top: 10px;
+    background-color: aquamarine;
+    border-radius: 2%;
+    text-align: left;
+    padding: 10px;
+    display: flex;
+}
+#respuesta{
+    margin-left: 10px;
+   display: flex;
+   justify-content: center;
+    
+    
+}
+.box-datos{
+    display: flex;
+    justify-content: space-between;
+}
+#cantidad{
+    width: 250px;
+}
+.nombres{
+    display: flex;
+    margin-bottom: 20px;
+
+}
+.box-mail{
+    margin-bottom: 20px;
+}
+.form-select2{
+    width: 260px;
+}
